@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/wilkerc2/Documents/GitHub/AI_Unreal/AI_CollinWilkerson/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/wilkerc2/Documents/GitHub/AI_Unreal/AI_CollinWilkerson/Content/BehaviorTrees/BT_Enemy.uasset",
+				"C:/Users/wilkerc2/Documents/GitHub/AI_Unreal/AI_CollinWilkerson/Content/BehaviorTrees/BB_Enemy.uasset",
+				"C:/Users/wilkerc2/Documents/GitHub/AI_Unreal/AI_CollinWilkerson/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/WA/LH8KM2FK84M9FZHIQFITU6.uasset",
+				"C:/Users/wilkerc2/Documents/GitHub/AI_Unreal/AI_CollinWilkerson/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/N0/ARKHD2F2W79TWK9GGBLLI8.uasset",
+				"C:/Users/wilkerc2/Documents/GitHub/AI_Unreal/AI_CollinWilkerson/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/GG/RYQSPX28G6PNJ722FT7N4Q.uasset",
+				"C:/Users/wilkerc2/Documents/GitHub/AI_Unreal/AI_CollinWilkerson/Content/Blueprints/AIC_EnemyBase.uasset",
+				"C:/Users/wilkerc2/Documents/GitHub/AI_Unreal/AI_CollinWilkerson/Content/ThirdPerson/Blueprints/BP_EnemyCharacter.uasset"
+			]
+		}
+	]
+}
