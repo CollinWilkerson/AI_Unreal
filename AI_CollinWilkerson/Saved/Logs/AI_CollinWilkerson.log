@@ -5294,3 +5294,239 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.30-18.50.37:893][103]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.03.30-18.50.37:893][103]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.03.30-18.50.37:893][103]AssetCheck: /Game/Animations/Rifle/WeaponAnimations/Character/MM_Rifle_Reload Validating asset
+[2026.03.30-18.53.44:395][960]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.03.30-18.53.44:401][960]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.023
+[2026.03.30-18.53.44:402][960]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.03.30-18.53.44:407][960]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.03.30-18.53.44:407][960]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.03.30-18.53.44:461][960]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto3
+[2026.03.30-18.53.44:464][960]LogSavePackage: Moving '../../../../../../Users/wilkerc2/Documents/GitHub/AI_Unreal/AI_CollinWilkerson/Saved/BP_ThirdPersonCharacter_Auto354A5E16A4D87F40143857BAD0FEE9F98.tmp' to '../../../../../../Users/wilkerc2/Documents/GitHub/AI_Unreal/AI_CollinWilkerson/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto3.uasset'
+[2026.03.30-18.53.44:467][960]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Mannequins/Animations/ABP_Manny] ([2] browsable assets)...
+[2026.03.30-18.53.44:473][960]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny]
+[2026.03.30-18.53.44:473][960]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/ABP_Manny]
+[2026.03.30-18.53.44:648][960]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Animations/ABP_Manny_Auto3
+[2026.03.30-18.53.44:651][960]LogSavePackage: Moving '../../../../../../Users/wilkerc2/Documents/GitHub/AI_Unreal/AI_CollinWilkerson/Saved/ABP_Manny_Auto3605A3E264D474F372DB7DC89296FC775.tmp' to '../../../../../../Users/wilkerc2/Documents/GitHub/AI_Unreal/AI_CollinWilkerson/Saved/Autosaves/Game/Characters/Mannequins/Animations/ABP_Manny_Auto3.uasset'
+[2026.03.30-18.53.44:654][960]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Rifle] ([2] browsable assets)...
+[2026.03.30-18.53.44:659][960]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Rifle.BP_Rifle]
+[2026.03.30-18.53.44:659][960]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Rifle]
+[2026.03.30-18.53.44:670][960]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Rifle_Auto3
+[2026.03.30-18.53.44:670][960]LogSavePackage: Moving '../../../../../../Users/wilkerc2/Documents/GitHub/AI_Unreal/AI_CollinWilkerson/Saved/BP_Rifle_Auto359BF707B4884D18185071FAEE8E4F13C.tmp' to '../../../../../../Users/wilkerc2/Documents/GitHub/AI_Unreal/AI_CollinWilkerson/Saved/Autosaves/Game/Blueprints/BP_Rifle_Auto3.uasset'
+[2026.03.30-18.53.44:673][960]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Rifle/WeaponAnimations/Weapon/Weap_Rifle_Reload] ([1] browsable assets)...
+[2026.03.30-18.53.44:677][960]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/Rifle/WeaponAnimations/Weapon/Weap_Rifle_Reload.Weap_Rifle_Reload]
+[2026.03.30-18.53.44:677][960]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Rifle/WeaponAnimations/Weapon/Weap_Rifle_Reload]
+[2026.03.30-18.53.44:682][960]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/Rifle/WeaponAnimations/Weapon/Weap_Rifle_Reload_Auto3
+[2026.03.30-18.53.44:682][960]LogSavePackage: Moving '../../../../../../Users/wilkerc2/Documents/GitHub/AI_Unreal/AI_CollinWilkerson/Saved/Weap_Rifle_Reload_Auto3532418BE4E9646B9527150A7AF36C9DA.tmp' to '../../../../../../Users/wilkerc2/Documents/GitHub/AI_Unreal/AI_CollinWilkerson/Saved/Autosaves/Game/Animations/Rifle/WeaponAnimations/Weapon/Weap_Rifle_Reload_Auto3.uasset'
+[2026.03.30-18.53.44:684][960]LogFileHelpers: Auto-saving content packages took 0.284
+[2026.03.30-18.54.29:157][588]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3282.681396
+[2026.03.30-18.54.30:157][591]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.30-18.54.30:157][591]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3283.348389, Update Interval: 328.442627
+[2026.03.30-19.00.52:730][878]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3666.241943
+[2026.03.30-19.00.52:890][891]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.30-19.00.52:890][891]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3666.389893, Update Interval: 359.954224
+[2026.03.30-19.01.37:374][335]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.03.30-19.01.38:422][335]LogSlate: Window 'Save Content' being destroyed
+[2026.03.30-19.01.38:446][335]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.30-19.01.38:507][335]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Mannequins/Animations/ABP_Manny] ([2] browsable assets)...
+[2026.03.30-19.01.38:507][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/ABP_Manny]
+[2026.03.30-19.01.38:686][335]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/ABP_Manny
+[2026.03.30-19.01.38:688][335]LogSavePackage: Moving '../../../../../../Users/wilkerc2/Documents/GitHub/AI_Unreal/AI_CollinWilkerson/Saved/ABP_Manny571D674B4049487982DC3B972FCC0799.tmp' to '../../../../../../Users/wilkerc2/Documents/GitHub/AI_Unreal/AI_CollinWilkerson/Content/Characters/Mannequins/Animations/ABP_Manny.uasset'
+[2026.03.30-19.01.38:690][335]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Rifle] ([2] browsable assets)...
+[2026.03.30-19.01.38:690][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Rifle]
+[2026.03.30-19.01.38:690][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Rifle" FILE="../../../../../../Users/wilkerc2/Documents/GitHub/AI_Unreal/AI_CollinWilkerson/Content/Blueprints/BP_Rifle.uasset" SILENT=true
+[2026.03.30-19.01.38:700][335]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Rifle
+[2026.03.30-19.01.38:701][335]LogSavePackage: Moving '../../../../../../Users/wilkerc2/Documents/GitHub/AI_Unreal/AI_CollinWilkerson/Saved/BP_Rifle06ED5D9D4B27AE1382061AAE297DF2EB.tmp' to '../../../../../../Users/wilkerc2/Documents/GitHub/AI_Unreal/AI_CollinWilkerson/Content/Blueprints/BP_Rifle.uasset'
+[2026.03.30-19.01.38:704][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.03.30-19.01.38:704][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.03.30-19.01.38:756][335]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.03.30-19.01.38:758][335]LogSavePackage: Moving '../../../../../../Users/wilkerc2/Documents/GitHub/AI_Unreal/AI_CollinWilkerson/Saved/BP_ThirdPersonCharacter01B13DF84048029E6F8AECBC0180A3F9.tmp' to '../../../../../../Users/wilkerc2/Documents/GitHub/AI_Unreal/AI_CollinWilkerson/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.03.30-19.01.38:762][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animations/BS_PistolAiming] ([1] browsable assets)...
+[2026.03.30-19.01.38:762][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/BS_PistolAiming]
+[2026.03.30-19.01.38:762][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/BS_PistolAiming" FILE="../../../../../../Users/wilkerc2/Documents/GitHub/AI_Unreal/AI_CollinWilkerson/Content/Animations/BS_PistolAiming.uasset" SILENT=true
+[2026.03.30-19.01.38:763][335]LogSavePackage: Moving output files for package: /Game/Animations/BS_PistolAiming
+[2026.03.30-19.01.38:763][335]LogSavePackage: Moving '../../../../../../Users/wilkerc2/Documents/GitHub/AI_Unreal/AI_CollinWilkerson/Saved/BS_PistolAimingDE8E1F164A5B859D128A289F0DC752DB.tmp' to '../../../../../../Users/wilkerc2/Documents/GitHub/AI_Unreal/AI_CollinWilkerson/Content/Animations/BS_PistolAiming.uasset'
+[2026.03.30-19.01.38:796][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Inputs/IA_Reload] ([1] browsable assets)...
+[2026.03.30-19.01.38:796][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inputs/IA_Reload]
+[2026.03.30-19.01.38:796][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inputs/IA_Reload" FILE="../../../../../../Users/wilkerc2/Documents/GitHub/AI_Unreal/AI_CollinWilkerson/Content/Inputs/IA_Reload.uasset" SILENT=true
+[2026.03.30-19.01.38:797][335]LogSavePackage: Moving output files for package: /Game/Inputs/IA_Reload
+[2026.03.30-19.01.38:797][335]LogSavePackage: Moving '../../../../../../Users/wilkerc2/Documents/GitHub/AI_Unreal/AI_CollinWilkerson/Saved/IA_Reload6AC642F74B0D2440741C22B86C016F80.tmp' to '../../../../../../Users/wilkerc2/Documents/GitHub/AI_Unreal/AI_CollinWilkerson/Content/Inputs/IA_Reload.uasset'
+[2026.03.30-19.01.38:800][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Inputs/IMC_ThirdPersonShooter] ([1] browsable assets)...
+[2026.03.30-19.01.38:800][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inputs/IMC_ThirdPersonShooter]
+[2026.03.30-19.01.38:808][335]LogSavePackage: Moving output files for package: /Game/Inputs/IMC_ThirdPersonShooter
+[2026.03.30-19.01.38:810][335]LogSavePackage: Moving '../../../../../../Users/wilkerc2/Documents/GitHub/AI_Unreal/AI_CollinWilkerson/Saved/IMC_ThirdPersonShooter7DBE121B4939161CBB25EAA72ECF9B9C.tmp' to '../../../../../../Users/wilkerc2/Documents/GitHub/AI_Unreal/AI_CollinWilkerson/Content/Inputs/IMC_ThirdPersonShooter.uasset'
+[2026.03.30-19.01.38:813][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animations/Pistol/AimOffset/MM_Pistol_Idle_ADS_AO_RBU] ([1] browsable assets)...
+[2026.03.30-19.01.38:813][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Pistol/AimOffset/MM_Pistol_Idle_ADS_AO_RBU]
+[2026.03.30-19.01.38:856][335]LogSavePackage: Moving output files for package: /Game/Animations/Pistol/AimOffset/MM_Pistol_Idle_ADS_AO_RBU
+[2026.03.30-19.01.38:858][335]LogSavePackage: Moving '../../../../../../Users/wilkerc2/Documents/GitHub/AI_Unreal/AI_CollinWilkerson/Saved/MM_Pistol_Idle_ADS_AO_RBU2A0DF6664BBB9C0E662042806EFAB53A.tmp' to '../../../../../../Users/wilkerc2/Documents/GitHub/AI_Unreal/AI_CollinWilkerson/Content/Animations/Pistol/AimOffset/MM_Pistol_Idle_ADS_AO_RBU.uasset'
+[2026.03.30-19.01.38:861][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animations/Rifle/WeaponAnimations/Character/MM_Rifle_Fire] ([1] browsable assets)...
+[2026.03.30-19.01.38:861][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Rifle/WeaponAnimations/Character/MM_Rifle_Fire]
+[2026.03.30-19.01.38:902][335]LogSavePackage: Moving output files for package: /Game/Animations/Rifle/WeaponAnimations/Character/MM_Rifle_Fire
+[2026.03.30-19.01.38:905][335]LogSavePackage: Moving '../../../../../../Users/wilkerc2/Documents/GitHub/AI_Unreal/AI_CollinWilkerson/Saved/MM_Rifle_FireB0C3E13848E1DCE43464F2ADC45128CD.tmp' to '../../../../../../Users/wilkerc2/Documents/GitHub/AI_Unreal/AI_CollinWilkerson/Content/Animations/Rifle/WeaponAnimations/Character/MM_Rifle_Fire.uasset'
+[2026.03.30-19.01.38:910][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animations/Rifle/WeaponAnimations/Weapon/Weap_Rifle_Fire] ([1] browsable assets)...
+[2026.03.30-19.01.38:910][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Rifle/WeaponAnimations/Weapon/Weap_Rifle_Fire]
+[2026.03.30-19.01.38:915][335]LogSavePackage: Moving output files for package: /Game/Animations/Rifle/WeaponAnimations/Weapon/Weap_Rifle_Fire
+[2026.03.30-19.01.38:918][335]LogSavePackage: Moving '../../../../../../Users/wilkerc2/Documents/GitHub/AI_Unreal/AI_CollinWilkerson/Saved/Weap_Rifle_Fire73FF57274B0076453568D0A30903161B.tmp' to '../../../../../../Users/wilkerc2/Documents/GitHub/AI_Unreal/AI_CollinWilkerson/Content/Animations/Rifle/WeaponAnimations/Weapon/Weap_Rifle_Fire.uasset'
+[2026.03.30-19.01.38:921][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animations/Rifle/WeaponAnimations/Weapon/Weap_Rifle_Reload] ([1] browsable assets)...
+[2026.03.30-19.01.38:921][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Rifle/WeaponAnimations/Weapon/Weap_Rifle_Reload]
+[2026.03.30-19.01.38:925][335]LogSavePackage: Moving output files for package: /Game/Animations/Rifle/WeaponAnimations/Weapon/Weap_Rifle_Reload
+[2026.03.30-19.01.38:927][335]LogSavePackage: Moving '../../../../../../Users/wilkerc2/Documents/GitHub/AI_Unreal/AI_CollinWilkerson/Saved/Weap_Rifle_ReloadDF50897C48EF2691E2FED58FC70D8A30.tmp' to '../../../../../../Users/wilkerc2/Documents/GitHub/AI_Unreal/AI_CollinWilkerson/Content/Animations/Rifle/WeaponAnimations/Weapon/Weap_Rifle_Reload.uasset'
+[2026.03.30-19.01.38:935][335]LogFileHelpers: InternalPromptForCheckoutAndSave took 489.485 ms (total: 1.42 sec)
+[2026.03.30-19.01.39:086][335]LogStall: Shutdown...
+[2026.03.30-19.01.39:086][335]LogStall: Shutdown complete.
+[2026.03.30-19.01.39:199][335]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.03.30-19.01.39:199][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.30-19.01.39:261][335]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2026.03.30-19.01.39:261][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.30-19.01.39:329][335]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2026.03.30-19.01.39:329][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.30-19.01.39:343][335]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2026.03.30-19.01.39:343][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.30-19.01.39:403][335]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.03.30-19.01.39:403][335]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2026.03.30-19.01.39:403][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.30-19.01.39:486][335]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.03.30-19.01.39:487][335]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2026.03.30-19.01.39:487][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.30-19.01.39:630][335]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2026.03.30-19.01.39:630][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.30-19.01.39:641][335]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2026.03.30-19.01.39:641][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.30-19.01.39:676][335]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2026.03.30-19.01.39:676][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.30-19.01.39:725][335]LogSlate: Window 'Weap_Rifle_Reload' being destroyed
+[2026.03.30-19.01.39:728][335]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2026.03.30-19.01.39:728][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.30-19.01.39:792][335]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2026.03.30-19.01.39:793][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.30-19.01.39:802][335]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2026.03.30-19.01.39:802][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.30-19.01.39:864][335]LogSlate: Window 'AI_CollinWilkerson - Unreal Editor' being destroyed
+[2026.03.30-19.01.39:968][335]LogContentValidation: Display: Starting to validate 10 assets
+[2026.03.30-19.01.39:968][335]LogContentValidation: Enabled validators:
+[2026.03.30-19.01.39:968][335]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.30-19.01.39:968][335]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.30-19.01.39:968][335]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.30-19.01.39:968][335]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.30-19.01.39:968][335]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.30-19.01.39:968][335]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.30-19.01.39:968][335]AssetCheck: /Game/Characters/Mannequins/Animations/ABP_Manny Validating asset
+[2026.03.30-19.01.39:968][335]AssetCheck: /Game/Blueprints/BP_Rifle Validating asset
+[2026.03.30-19.01.39:968][335]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.03.30-19.01.39:968][335]AssetCheck: /Game/Animations/BS_PistolAiming Validating asset
+[2026.03.30-19.01.39:968][335]AssetCheck: /Game/Inputs/IA_Reload Validating asset
+[2026.03.30-19.01.39:968][335]AssetCheck: /Game/Inputs/IMC_ThirdPersonShooter Validating asset
+[2026.03.30-19.01.39:968][335]AssetCheck: /Game/Animations/Pistol/AimOffset/MM_Pistol_Idle_ADS_AO_RBU Validating asset
+[2026.03.30-19.01.39:968][335]AssetCheck: /Game/Animations/Rifle/WeaponAnimations/Character/MM_Rifle_Fire Validating asset
+[2026.03.30-19.01.39:969][335]AssetCheck: /Game/Animations/Rifle/WeaponAnimations/Weapon/Weap_Rifle_Fire Validating asset
+[2026.03.30-19.01.39:969][335]AssetCheck: /Game/Animations/Rifle/WeaponAnimations/Weapon/Weap_Rifle_Reload Validating asset
+[2026.03.30-19.01.39:988][335]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.03.30-19.01.40:006][335]Cmd: QUIT_EDITOR
+[2026.03.30-19.01.40:006][335]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.03.30-19.01.40:015][336]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.03.30-19.01.40:038][336]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.03.30-19.01.40:038][336]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.03.30-19.01.40:039][336]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.03.30-19.01.40:039][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.30-19.01.40:039][336]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2026.03.30-19.01.40:062][336]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.03.30-19.01.40:063][336]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.03.30-19.01.40:066][336]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2026.03.30-19.01.40:066][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.30-19.01.40:068][336]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2026.03.30-19.01.40:068][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.30-19.01.40:070][336]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2026.03.30-19.01.40:070][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.30-19.01.40:071][336]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2026.03.30-19.01.40:071][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.30-19.01.40:073][336]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2026.03.30-19.01.40:073][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.30-19.01.40:074][336]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2026.03.30-19.01.40:074][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.30-19.01.40:075][336]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2026.03.30-19.01.40:075][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.30-19.01.40:077][336]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2026.03.30-19.01.40:077][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.30-19.01.40:079][336]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2026.03.30-19.01.40:079][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.30-19.01.40:080][336]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2026.03.30-19.01.40:080][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.30-19.01.40:082][336]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.03.30-19.01.40:082][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.30-19.01.40:083][336]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.03.30-19.01.40:083][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.30-19.01.40:084][336]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.03.30-19.01.40:084][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.30-19.01.40:086][336]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.03.30-19.01.40:086][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.30-19.01.40:087][336]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.03.30-19.01.40:087][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.30-19.01.40:088][336]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2026.03.30-19.01.40:088][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.30-19.01.40:089][336]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.03.30-19.01.40:089][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.30-19.01.40:090][336]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.03.30-19.01.40:090][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.30-19.01.40:092][336]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2026.03.30-19.01.40:092][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.30-19.01.40:093][336]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2026.03.30-19.01.40:093][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.30-19.01.40:095][336]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.03.30-19.01.40:098][336]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2026.03.30-19.01.40:098][336]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2026.03.30-19.01.40:098][336]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2026.03.30-19.01.40:372][336]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.03.30-19.01.40:372][336]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.03.30-19.01.40:372][336]LogAudio: Display: Audio Device unregistered from world 'ThirdPersonMap'.
+[2026.03.30-19.01.40:372][336]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.03.30-19.01.40:372][336]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2026.03.30-19.01.40:374][336]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2026.03.30-19.01.40:403][336]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.03.30-19.01.40:403][336]LogAudio: Display: Audio Device Manager Shutdown
+[2026.03.30-19.01.40:403][336]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2026.03.30-19.01.40:405][336]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.03.30-19.01.40:406][336]LogExit: Preparing to exit.
+[2026.03.30-19.01.40:426][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.03.30-19.01.40:429][336]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.30-19.01.40:429][336]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.30-19.01.40:429][336]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.30-19.01.40:429][336]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.30-19.01.40:429][336]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.30-19.01.40:429][336]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.30-19.01.40:429][336]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.30-19.01.40:429][336]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.30-19.01.40:429][336]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.30-19.01.40:429][336]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.30-19.01.40:430][336]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.30-19.01.40:430][336]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.30-19.01.40:430][336]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.30-19.01.40:430][336]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.30-19.01.40:430][336]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.30-19.01.40:430][336]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.30-19.01.40:430][336]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.30-19.01.40:430][336]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.30-19.01.40:430][336]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.30-19.01.40:430][336]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.30-19.01.40:430][336]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.30-19.01.41:322][336]LogEditorDataStorage: Deinitializing
+[2026.03.30-19.01.41:524][336]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.03.30-19.01.41:534][336]LogExit: Editor shut down
+[2026.03.30-19.01.41:536][336]LogExit: Transaction tracking system shut down
+[2026.03.30-19.01.41:626][336]LogExit: Object subsystem successfully closed.
+[2026.03.30-19.01.41:645][336]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.03.30-19.01.41:746][336]LogDerivedDataCache: C:/Users/wilkerc2/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.30-19.01.42:318][336]LogMemoryProfiler: Shutdown
+[2026.03.30-19.01.42:318][336]LogNetworkingProfiler: Shutdown
+[2026.03.30-19.01.42:318][336]LoadingProfiler: Shutdown
+[2026.03.30-19.01.42:318][336]LogTimingProfiler: Shutdown
+[2026.03.30-19.01.42:737][336]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.03.30-19.01.42:744][336]RenderDocPlugin: plugin has been unloaded.
+[2026.03.30-19.01.42:769][336]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.03.30-19.01.42:769][336]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B028B427B-4627-E9A9-98F1-EABD1A4DA06A%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=c9699102435dea8e9a5e3ab19b4af331%7C580da1455f9a4274b7fcd8aee637e337%7Cd6bae30a-49ec-4bac-a097-67257671844d&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.03.30-19.01.43:316][336]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.03.30-19.01.43:316][336]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2026.03.30-19.01.43:316][336]LogNFORDenoise: NFORDenoise function shutting down
+[2026.03.30-19.01.43:319][336]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.03.30-19.01.43:319][336]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.03.30-19.01.43:319][336]LogPakFile: Destroying PakPlatformFile
+[2026.03.30-19.01.43:790][336]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.03.30-19.01.43:846][336]LogExit: Exiting.
+[2026.03.30-19.01.43:865][336]Log file closed, 03/30/26 12:01:43
